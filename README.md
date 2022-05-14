@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ashish4793
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Ashish Kumar,Student at Vellore Institute of Technology,Bhopal
+- 👀 I’m interested in Python and Web Development
+- 🌱 I’m currently learning Python and Web Development
 - 📫 How to reach me - ashishku1063@outlook.com
 
 <!---
