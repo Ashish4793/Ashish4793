@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashish Kumar,Student at Vellore Institute of Technology-Bhopal
-- 👀 I’m interested Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me - ashishku1063@outlook.com
 
