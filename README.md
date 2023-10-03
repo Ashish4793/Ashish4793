@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 style="color : white; text-decoration : none;" align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -59,9 +59,9 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ashish-kumar-2871a7235/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://skillicons.dev/icons?i=twitter" width="52" height="40" alt="twitter logo"  />
 </div>
 
 ###
