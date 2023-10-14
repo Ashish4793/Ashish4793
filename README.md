@@ -58,10 +58,12 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ashish-kumar-2871a7235/" target="_blank">
+  <a href="https://twitter.com/AshishK4793" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://skillicons.dev/icons?i=twitter" width="52" height="40" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/ashishk4793/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=twitter" width="52" height="40" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
