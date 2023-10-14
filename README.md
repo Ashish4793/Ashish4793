@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I’m Ashish Kumar, Student at Vellore Institute of Technology-Bhopal<br>- 👀 I’m interested in Web Development and Cloud Computing.<br>- 🌱 I’m currently learning MERN Stack and AWS.<br>- 📫 How to reach me - ashishku1063@outlook.com</p>
+<p align="left">- 👋 Hi, I’m Ashish Kumar, Student at Vellore Institute of Technology-Bhopal<br>- 👀 I’m interested in Web Development and Cloud Computing.<br>- 🌱 I’m currently learning AWS and DSA  .<br>- 📫 How to reach me - ashishku1063@outlook.com</p>
 
 ###
 
