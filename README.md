@@ -59,7 +59,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ashish-kumar-2871a7235/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="linkedin logo"  />
+    <img style="color : "white";" src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://simpleicons.org/icons/x.svg" width="52" height="40" alt="twitter logo"  />
 </div>
