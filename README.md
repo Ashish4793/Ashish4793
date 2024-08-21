@@ -3,7 +3,7 @@
 ###
 
 # 💫 About Me:
-- 👋 Hi, I’m Ashish Kumar, Student at Vellore Institute of Technology, Bhopal<br>- 👀 I’m interested in Backend Technologies and Cloud Computing.<br>- 🌱 I’m currently learning AWS and improving my DSA skills .<br>- 📫 <a href='www.ashissh.tech'>Portfolio Website</a> <br>- 📫 How to reach me - ashishku1063@outlook.com
+- 👋 Hi, I’m Ashish Kumar, Student at Vellore Institute of Technology, Bhopal<br>- 👀 I’m interested in Backend Technologies and Cloud Computing.<br>- 🌱 I’m currently learning AWS and improving my DSA skills .<br>- 📫 <a href='https://www.ashissh.tech'>Portfolio Website</a> <br>- 📫 How to reach me - ashishku1063@outlook.com
 
 
 ## 🌐 Socials:
